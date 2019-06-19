@@ -1,0 +1,4 @@
+com\example\elasticsearch\config\config.class
+com\example\elasticsearch\ElasticApplication.class
+com\example\elasticsearch\controller\UserController.class
+com\example\elasticsearch\model\User.class
